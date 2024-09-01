@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" href="teste1.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Principal</title>
+</head>
+<body>
+    <div class = "div1">
+<h1>Calculadora de resitores</h1><br>
+<p>link para a pagina de calculos de resistores!</p><br>
+<a href = "cr.html">clique a aqui</a>
+<p>Link para a pagina de calculadora normal</p><br>
+<a href = "cn.html">clique aqui</a><br>
+
+    </div>
+</body>
+</html>
