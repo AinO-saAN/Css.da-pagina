@@ -1,0 +1,44 @@
+body{
+
+margin: 0%;
+padding: 0%;
+}
+.div1{
+    color:white ;
+
+background-image:url(infant.jpg) ;
+width: 2100px;
+height: 1900px; 
+font-size: larger;
+background-size: cover;
+background-attachment: fixed;
+}
+#bordas{
+    width: 300px;
+    
+    height: 300px; 
+    border-style: solid dashed;
+    border-color:red blue yellow green ;
+border-radius:50%;/* pode ser em pixel e em porcetagem*/
+
+    }
+    #vb{
+        padding: 20px; ;
+height:auto ;
+width: auto;
+background-color:red ;
+overflow:auto ;
+color :white
+
+
+    }
+    #vb2{
+        padding:  20px; ;
+        height:auto ;
+        width: auto;
+        background-color:blue ;
+        overflow: auto;
+        color :white
+        
+        
+            }
